@@ -9,7 +9,6 @@ We applied data preprocessing, feature selection, multiple machine learning mode
 ---
 
 ## 📂 Dataset
-- Source: [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)  
 - Features include: `Glucose`, `BMI`, `Age`, `Blood Pressure`, `Insulin`, `Skin Thickness`, etc.  
 - Target: **Outcome** (0 = Non-Diabetic, 1 = Diabetic)
 
